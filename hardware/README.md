@@ -23,6 +23,8 @@ You are free to copy, modify, and share this project **for non-commercial purpos
 
 ![TJA1050](TJA1050.png)
 
+* NOTE: You should remove (unsolder) the CAN bus termnation resistor R3 (121 ohm)
+
 #### USB A Male Breakboard
 
 ![USB](USB_male_A_breakboard.png)
