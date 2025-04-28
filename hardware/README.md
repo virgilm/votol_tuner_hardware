@@ -11,7 +11,21 @@ You are free to copy, modify, and share this project **for non-commercial purpos
 
 ## Schematic
 
+![Schematic](metahack_schematic.png)
+
 ## Part list
+
+#### ESP32-Wroom32 (no headers)
+
+![ESP32](ESP-WROOM-32_no_headers.png)
+
+#### TJA1050 CAN bus driver
+
+![TJA1050](TJA1050.png)
+
+#### USB A Male Breakboard
+
+![USB](USB_male_A_breakboard.png)
 
 ## Actual routing
 
