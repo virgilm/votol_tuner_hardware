@@ -27,7 +27,8 @@ You are free to copy, modify, and share this project **for non-commercial purpos
 The hardware section shows the Hardware design of the BT adaptor.
 
 ## Case design
-The case section shows the design for the 3D printed case:
+The enclosure section shows the design for the 3D printed case:
+
 #### OpenSCAD file
 Requires the great (free) OpenSCAD Modeller: https://openscad.org/about.html
 #### STL files for 3D printing
