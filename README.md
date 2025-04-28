@@ -24,16 +24,16 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial-Shar
 You are free to copy, modify, and share this project **for non-commercial purposes only**, as long as you give credit and license your new creations under the same terms.
 
 ## Hardware schematics
-The hardware section shows the Hardware design of the BT adaptor.
+The hardware [section](https://github.com/virgilm/votol_tuner_hardware/tree/main/hardware) shows the Hardware design of the BT adaptor.
 
 ## Case design
-The enclosure section shows the design for the 3D printed case:
+The enclosure [section](https://github.com/virgilm/votol_tuner_hardware/tree/main/enclosure) shows the design for the 3D printed case:
 
 #### OpenSCAD file
-Requires the great (free) OpenSCAD Modeller: https://openscad.org/about.html
+Requires the great (free) [OpenSCAD](https://openscad.org/about.html) Modeller.
 #### STL files for 3D printing
-Whole case, top side, bottom side
+Whole [case](https://github.com/virgilm/votol_tuner_hardware/blob/main/enclosure/metahack_housing.stl), [top](https://github.com/virgilm/votol_tuner_hardware/blob/main/enclosure/metahack_housing_top_only.stl) side, [bottom](https://github.com/virgilm/votol_tuner_hardware/blob/main/enclosure/metahack_housing_bottom_only.stl) side
 
 ## Software stack
-For details on the software stack, check the following project: 👉 [Project Link]
+For details on the software stack, check the following project: 👉 [Project Link](https://github.com/virgilm/votol_bt_interface)
 
