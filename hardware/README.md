@@ -29,3 +29,5 @@ You are free to copy, modify, and share this project **for non-commercial purpos
 
 ## Actual routing
 
+![Wiring](wiring_all.jpg)
+![Dongle](USB_dongle.jpg)
