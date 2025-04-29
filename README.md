@@ -14,7 +14,7 @@ Youtube Channel: https://www.youtube.com/@metacyclehack
 
 If you would like to purchase a ready-to-use module or unlock premium app features, please visit:
 
-👉 [Store Link]
+👉 [Store](https://buymeacoffee.com/metahack/extras)
 
 Thank you for supporting independent innovation!
 
